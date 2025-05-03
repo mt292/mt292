@@ -17,7 +17,7 @@
 
 - I am eager to continue learning and growing in these fields, and I am always on the lookout for opportunities to apply my skills in internships, research projects, or collaborative initiatives. My goal is to make a meaningful impact in the realms of cyber security and criminal justice, leveraging my education and passion to drive positive change.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Learn More </b>
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1ZtRGwhRDXsCtSZlbiM6CBNzYj2kVM5liwEtRZeZggSg/edit?usp=sharing).
+- I’m currently open for an Intern or a new job opportunity, learn more on [my Website](https://mtsaga.net).
 
 <br><br>
 
@@ -48,6 +48,8 @@
 - **My Links**:
 
     [LinkedIn](https://www.linkedin.com/in/martin-topp/)
+
+    [Website](https://mtsaga.net)
   
     [Handshake](https://indianatech.joinhandshake.com/profiles/58627990)
     
