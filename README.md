@@ -5,6 +5,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Martin+Topp+%F0%9F%AB%A5" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <a href="https://mtsaga.net" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-mtsaga.net-00ADD8?style=for-the-badge&labelColor=000000" alt="Website"/>
+  </a>
+</p>
 
 <br>
 <br>
@@ -17,7 +22,26 @@
 
 - I am eager to continue learning and growing in these fields, and I am always on the lookout for opportunities to apply my skills in internships, research projects, or collaborative initiatives. My goal is to make a meaningful impact in the realms of cyber security and criminal justice, leveraging my education and passion to drive positive change.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Learn More </b>
-- I’m currently open for an Intern or a new job opportunity, learn more on [my Website](https://mtsaga.net).
+- I'm currently open for an Intern or a new job opportunity, learn more on **[my Website - mtsaga.net](https://mtsaga.net)** 🚀
+
+<br><br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mt292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mt292&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mt292&theme=tokyonight" alt="Profile Summary"/>
+</p>
 
 <br><br>
 
@@ -28,11 +52,11 @@
 
 <p align="center">
 
-- **Languages**:
-  Known & Studying
-
-
-    ![JavaScript](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+- **L![Website](https://img.shields.io/badge/🌐_Website-mtsaga.net-00ADD8?style=for-the-badge)](https://mtsaga.net)
+    
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-topp/)
+  
+    [![Handshake](https://img.shields.io/badge/Handshake-FF4D00?style=for-the-badge&logo=handshake&logoColor=white)pt](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
