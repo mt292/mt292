@@ -30,18 +30,17 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mt292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mt292&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mt292&theme=tokyonight" alt="Profile Summary"/>
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mt292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mt292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mt292&theme=tokyonight&hide_border=true)
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mt292&theme=tokyonight)
+  
+</div>
 
 <br><br>
 
@@ -52,11 +51,11 @@
 
 <p align="center">
 
-- **L![Website](https://img.shields.io/badge/🌐_Website-mtsaga.net-00ADD8?style=for-the-badge)](https://mtsaga.net)
-    
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-topp/)
-  
-    [![Handshake](https://img.shields.io/badge/Handshake-FF4D00?style=for-the-badge&logo=handshake&logoColor=white)pt](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+- **Languages**:
+  Known & Studying
+
+
+    ![JavaScript](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -71,11 +70,11 @@
 
 - **My Links**:
 
-    [LinkedIn](https://www.linkedin.com/in/martin-topp/)
-
-    [Website](https://mtsaga.net)
+    [![Website](https://img.shields.io/badge/🌐_Website-mtsaga.net-00ADD8?style=for-the-badge)](https://mtsaga.net)
+    
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-topp/)
   
-    [Handshake](https://indianatech.joinhandshake.com/profiles/58627990)
+    [![Handshake](https://img.shields.io/badge/Handshake-FF4D00?style=for-the-badge&logo=handshake&logoColor=white)](https://indianatech.joinhandshake.com/profiles/58627990)
     
 <br>
 
